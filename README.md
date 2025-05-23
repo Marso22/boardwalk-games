@@ -44,8 +44,21 @@ Tasks
 - Embed the provided engaging descriptions for the café's ambience and list of services available within the site's content.
 - Design and implement a homepage layout that prominently features the images and descriptions.
 
+## User Story 3: Game Library page (must-have)
 
-## User Story 3: Location, contact details and opening hours (must-have)
+- As a Board Game Enthusiast, I want to explore a selection of featured board games on the website, so I can discover new games and decide which ones I might be interested in trying.
+
+Acceptance Criteria
+
+- The website has a separate page for the list of board games.
+- The game library page utilises the Bootstrap grid and card components for consistency in layout and responsiveness.
+- Each card states the relevant game title, image, descriptions, number of players and age range.
+
+Task
+
+- Create a responsive Game Library page featuring a handful of selected games and their relevant details.
+
+## User Story 4: Location, contact details and opening hours (must-have)
 
 - User Story: As a Prospective Customer, I need to find essential information such as location, contact details, and opening hours clearly and concisely, so I can easily plan my visit or get in touch with the café.
 
@@ -59,7 +72,7 @@ Tasks
 - TDesign and place a section for location, contact details, and opening hours using information provided by the client.
 - TEnsure the contact section is clearly visible and accessible from all parts of the website, adhering to common design standards.
 
-## User Story 4: Booking inquiry form (must-have)
+## User Story 5: Booking inquiry form (must-have)
 
 - User Story: As a Customer, I want to book a table or join an open game night using a simple booking inquiry form, so I can easily organise a group visit or a special occasion.
 
@@ -76,7 +89,18 @@ Tasks
 - Implement HTML validation on the form to fit the requirements above.
 - Create a success page to direct users to after submitting the form.
 
-## User Story 5: Visible pricing for events and student discount (should-have)
+## User Story 6: As a Board Game Enthusiast, I want to reserve a board game from the list of available games, so I can ensure it's available for me when I visit the shop.
+
+Acceptance Criteria
+
+- A reservation form is available on the Game Library page.
+- The user can fill out their selected game, name, contact information, and preferred date for the reservation.
+
+Task
+
+- Create a reservation form with fields for the user's name, contact information, preferred date and select which game they want to reserve.
+
+## User Story 7: Visible pricing for events and student discount (should-have)
 
 - User Story: As a Student Gamer, I want to find clear information about upcoming events, pricing and student discounts, so I can plan my visit within my budget and time constraints.
 
@@ -90,7 +114,7 @@ Tasks
 - Display pricing for events using the provided rate information.
 - Clearly display student discount information with the pricing for events.
 
-## User Story 6: Testimonials (could-have)
+## User Story 8: Testimonials (could-have)
 
 - User Story: As a Prospective Customer, I want to read testimonials and reviews from other customers, so I can gauge the experiences of others and feel more confident about visiting Boardwalk Games.
 
@@ -104,7 +128,7 @@ Tasks
 - Create a static section on the website for customer testimonials.
 - Populate this section with a selection of pre-written testimonials.
 
-## User Story 7: Newsletter sign up form (could-have)
+## User Story 9: Newsletter sign up form (could-have)
 
 - User Story: As a Regular Customer, I want to sign up for newsletters and updates, so I can stay informed about special offers, new games, and upcoming events.
 
