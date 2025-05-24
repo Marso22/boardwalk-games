@@ -44,9 +44,9 @@ Tasks
 - Embed the provided engaging descriptions for the café's ambience and list of services available within the site's content.
 - Design and implement a homepage layout that prominently features the images and descriptions.
 
-## User Story 3: Game Library page (must-have)
+## User Story 3: Selected board games displayed on a separate Game Library page (must-have)
 
-- As a Board Game Enthusiast, I want to explore a selection of featured board games on the website, so I can discover new games and decide which ones I might be interested in trying.
+- As a Board Game Enthusiast, I want to explore a selection of featured board games on the website, so I can discover new games and decide which ones I might be interested in trying or buying.
 
 Acceptance Criteria
 
@@ -89,7 +89,9 @@ Tasks
 - Implement HTML validation on the form to fit the requirements above.
 - Create a success page to direct users to after submitting the form.
 
-## User Story 6: As a Board Game Enthusiast, I want to reserve a board game from the list of available games, so I can ensure it's available for me when I visit the shop.
+## User Story 6: Form to reserve a board game on the Game Library page (should-have)
+
+- As a Board Game Enthusiast, I want to reserve a board game from the list of available games, so I can ensure it's available for me when I visit the shop.
 
 Acceptance Criteria
 
@@ -143,8 +145,8 @@ Tasks
 
 # Project design
 
-- Using wireframes to map out grid structure and key features (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://codeinstitute.s3.eu-west-1.amazonaws.com/Bootstrap/bootstrapM2-02.01.03-boardwalk-games-full-wireframes.pdf)
-- Selecting colours for contrast and accessibility (IMAGECOLORPICKER.com)
-- Choosing fonts for a good user experience (https://webaim.org/resources/contrastchecker/)
+- Use wireframes to map out grid structure and key features (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://codeinstitute.s3.eu-west-1.amazonaws.com/Bootstrap/bootstrapM2-02.01.03-boardwalk-games-full-wireframes.pdf)
+- Select colours for contrast and accessibility (IMAGECOLORPICKER.com)
+- Choos fonts for a good user experience (https://webaim.org/resources/contrastchecker/)
 
 - 
